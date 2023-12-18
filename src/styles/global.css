@@ -206,8 +206,25 @@ h5 {
 	color: #275295;
 }
 
+.cv{
+	background-color: rgb(255, 255, 255);
+	font-size: 1.5rem;
+	color: #0b3881;
+	border-radius: 10px;
+	
+	font-weight: 900;
+	padding: 0.5rem;
+}
+
 .gap-2 {
 	gap: 0.5rem;
+}
+.skill_img{
+	max-width: 0.2rem;
+	display: inline;
+
+	
+
 }
 .gap-4 {
 	gap: 1rem;
