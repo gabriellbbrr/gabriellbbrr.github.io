@@ -46,14 +46,18 @@ I spearheaded a comprehensive project focused on redefining the company's digita
 
 - Overall, this experience enabled me to navigate the intricate process of web design and development, showcasing my proficiency in conceptualization, design, and implementation while aligning with the company's objectives to deliver a compelling digital solution.
 
+![Texte alternatif](/assets/work4_1.png "Le titre de mon image")
+
 ### How to Use
 
 1. Clone the project to your machine.
    ```bash
-   git clone git@github.com:H1B0B0/Rogue-like-LibGDX.git
+   git clone git@github.com
    ```
 2. Open the folder in a IDE or download the builded version in realase faction.
 
 3. Run the site and enjoy.
 
 ### The link to the [Github repository](https://github.com/H1B0B0/Rogue-like-LibGDX)
+
+![Texte alternatif](/assets/work4_2.png "Le titre de mon image")
