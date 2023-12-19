@@ -92,7 +92,7 @@ const projects = (await getCollection("work"))
       <section>
         <h2 class="section-title">Skills</h2>
         <div class="content">
-          <p class="skill_img">
+          <li class="skill_img">
             <Icon name="icomoon-free:html-five2" size="4rem" />
             <Icon name="uiw:css3" size="4rem" />
             <Icon name="cib:js" size="4rem" />
@@ -105,7 +105,7 @@ const projects = (await getCollection("work"))
             <Icon name="file-icons:adobe-photoshop" size="4rem" />
             <Icon name="cib:adobe-indesign" size="4rem" />
             <Icon name="file-icons:figma" size="4rem" />
-          </p>
+          </li>
         </div>
       </section>
     </main>
@@ -126,31 +126,24 @@ const projects = (await getCollection("work"))
     translateY: [250, 0], // -> '250px'
   });
 
-  anime({
-    targets: ".function-based-values-demo .el",
-    translateX: function (el) {
-      return el.getAttribute("data-x");
-    },
-    translateY: function (el, i) {
-      return 50 + -50 * i;
-    },
-    scale: function (el, i, l) {
-      return l - i + 0.25;
-    },
-    rotate: function () {
-      return anime.random(-360, 360);
-    },
-    borderRadius: function () {
-      return ["50%", anime.random(10, 35) + "%"];
-    },
-    duration: function () {
-      return anime.random(1200, 1800);
-    },
-    delay: function () {
-      return anime.random(0, 400);
-    },
-    direction: "alternate",
-    loop: true,
+  const li_skills = document.querySelectorAll(".skill_img svg");
+  li_skills?.forEach((element) => {
+    element.addEventListener("mouseover", () => {
+      anime({
+        targets: element,
+        scale: 1.5,
+        duration: 100,
+        easing: "easeInOutSine",
+      });
+    });
+    element.addEventListener("mouseout", () => {
+      anime({
+        targets: element,
+        scale: 1,
+        duration: 100,
+        easing: "easeInOutSine",
+      });
+    });
   });
 </script>
 
