@@ -52,7 +52,7 @@ I spearheaded a comprehensive project focused on redefining the company's digita
 
 1. Clone the project to your machine.
    ```bash
-   git clone git@github.com
+   git clone git@github.com:gabriellbbrr/Music-sons.git
    ```
 2. Open the folder in a IDE or download the builded version in realase faction.
 
