@@ -58,6 +58,4 @@ I spearheaded a comprehensive project focused on redefining the company's digita
 
 3. Run the site and enjoy.
 
-### The link to the [Github repository](https://github.com/H1B0B0/Rogue-like-LibGDX)
-
 ![Texte alternatif](/assets/work4_2.png "Le titre de mon image")
