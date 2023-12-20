@@ -2,7 +2,7 @@
 title: Music&Sons
 publishDate: 2022-06-01 00:00:00
 img: /assets/work4.png
-
+img_alt: hello
 description: |
   Project Overview: Redesigning Music&Sons Website & Visual Identity
 tags:
