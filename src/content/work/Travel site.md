@@ -44,12 +44,12 @@ I approached this task with enthusiasm, putting into practice the knowledge gain
 
 1. Clone the project to your machine.
    ```bash
-   git clone git@github.com:H1B0B0/Rogue-like-LibGDX.git
+   git clone git@github.com:gabriellbbrr/Travel_Site.git
    ```
 2. Open the folder in a IDE or download the builded version in realase faction.
 
 3. Run the game and enjoy.
 
-### The link to the [Github repository](https://github.com/H1B0B0/Rogue-like-LibGDX)
+### The link to the [Github repository](https://github.com/gabriellbbrr/Travel_Site)
 
 ![Texte alternatif](/assets/travel_3.png "Le titre de mon image")
