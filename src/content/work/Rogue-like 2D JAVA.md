@@ -9,6 +9,8 @@ tags:
   - Design
   - Dev
   - Project
+  - Game
+  - Java
 ---
 
 # Rogue-like LibGDX

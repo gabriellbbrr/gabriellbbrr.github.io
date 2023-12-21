@@ -54,7 +54,7 @@ I spearheaded a comprehensive project focused on redefining the company's digita
    ```bash
    git clone git@github.com:gabriellbbrr/Music-sons.git
    ```
-2. Open the folder in a IDE or download the builded version in realase faction.
+2. Open the folder in a IDE
 
 3. Run the site and enjoy.
 

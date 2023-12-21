@@ -46,9 +46,7 @@ I approached this task with enthusiasm, putting into practice the knowledge gain
    ```bash
    git clone git@github.com:gabriellbbrr/Travel_Site.git
    ```
-2. Open the folder in a IDE or download the builded version in realase faction.
-
-3. Run the game and enjoy.
+2. Open the folder in a IDE.
 
 ### The link to the [Github repository](https://github.com/gabriellbbrr/Travel_Site)
 
