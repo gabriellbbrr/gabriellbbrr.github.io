@@ -236,6 +236,10 @@ h5 {
 	gap: 12rem;
 }
 
+.gap-50 {
+	gap: 15rem;
+}
+
 @media (min-width: 50em) {
 	.lg\:gap-2 {
 		gap: 0.5rem;
@@ -261,5 +265,7 @@ h5 {
 	.lg\:gap-48 {
 		gap: 12rem;
 	}
+
+
 
 }
